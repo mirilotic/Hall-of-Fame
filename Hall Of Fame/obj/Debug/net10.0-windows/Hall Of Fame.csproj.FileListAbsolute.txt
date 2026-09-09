@@ -1,0 +1,52 @@
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Window1.g.cs
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\App.g.cs
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of Fame_MarkupCompile.cache
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of Fame_MarkupCompile.lref
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\Hall Of Fame.exe
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\Hall Of Fame.deps.json
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\Hall Of Fame.runtimeconfig.json
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\Hall Of Fame.dll
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\Hall Of Fame.pdb
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Window2.g.cs
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\MainWindow.baml
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Window1.baml
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Window2.baml
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of Fame.g.resources
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of Fame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of Fame.AssemblyInfoInputs.cache
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of Fame.AssemblyInfo.cs
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of Fame.csproj.CoreCompileInputs.cache
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of Fame.dll
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\refint\Hall Of Fame.dll
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of Fame.pdb
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of Fame.genruntimeconfig.cache
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\ref\Hall Of Fame.dll
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Projekte\Hall Of Fame\Hall Of Fame\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of Fame.csproj.AssemblyReference.cache
+D:\Projekte\Hall Of Fame\Hall Of Fame\obj\Debug\net10.0-windows\Hall Of .4454765A.Up2Date

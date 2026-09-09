@@ -1,0 +1,26 @@
+﻿<Window x:Class="Hall_Of_Fame.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hall_Of_Fame"
+        mc:Ignorable="d"
+        Title="Window1" SizeToContent="WidthAndHeight">
+    <Grid Margin="0,0,10,-6">
+
+        <Button Margin="132,333,504,49" Content="Eintragen" FontSize="16" Click="Eintragen_Click"></Button>
+        <Button Margin="505,333,132,49" Content="Zurück" FontSize="16" Click="W1ZurueckButton_Click"></Button>
+        <Label Content="Sieg.-Nr." Margin="141,87,513,312" FontSize="16"/>
+        <Label Content="Spielmodus" Margin="141,175,513,224" FontSize="16"/>
+        <Label Content="Spitzname" Margin="141,219,513,180" FontSize="16"/>
+        <Label Content="Spezies" Margin="141,263,513,136" FontSize="16"/>
+        <TextBox x:Name="datumBox"  HorizontalAlignment="Left" Height="39" Margin="340,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" FontSize="16"/>
+        <TextBox x:Name="spielmodusBox" HorizontalAlignment="Left" Height="39" Margin="340,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" FontSize="16"/>
+        <TextBox x:Name="spitznameBox" HorizontalAlignment="Left" Height="39" Margin="340,216,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" FontSize="16" RenderTransformOrigin="0.556,2.742"/>
+        <TextBox x:Name="speziesBox" HorizontalAlignment="Left" Height="39" Margin="340,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" FontSize="16"/>
+        <Label Content="Bitte eintragen:" HorizontalAlignment="Left" Height="36" Margin="141,43,0,0" VerticalAlignment="Top" Width="254" FontSize="16"/>
+        <Label Content="Datum" Margin="141,132,513,269" FontSize="16"/>
+        <TextBox x:Name="siegnrBox" HorizontalAlignment="Left" Height="39" Margin="340,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" FontSize="16"/>
+
+    </Grid>
+</Window>
